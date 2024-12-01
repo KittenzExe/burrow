@@ -1,10 +1,10 @@
-# Burrow
+# burrow
 
 Quick reloading Go scripts made easy.
 
 ## Running
 
-See releases for downloads
+See [releases](https://github.com/KittenzExe/burrow/releases) for downloads
 
 ### Windows
 
@@ -54,4 +54,4 @@ go build -o burrow main.go
 
 ## License
 
-Under the GNU Affero General Public License v3.0
+Under the [GNU Affero General Public License v3.0](https://github.com/KittenzExe/burrow?tab=AGPL-3.0-1-ov-file)
